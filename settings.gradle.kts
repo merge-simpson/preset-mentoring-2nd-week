@@ -1,1 +1,1 @@
-rootProject.name = "demo-1st-week-sun"
+rootProject.name = "demo-mentoring-2nd-week"
